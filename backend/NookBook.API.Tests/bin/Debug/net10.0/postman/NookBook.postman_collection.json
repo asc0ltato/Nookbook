@@ -1,0 +1,261 @@
+{
+  "info": {
+    "name": "NookBook API Full Coverage",
+    "description": "Коллекция для проверки всех контроллеров backend/Controllers",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    { "key": "baseUrl", "value": "http://localhost:5223/api" },
+    { "key": "token", "value": "" },
+    { "key": "userId", "value": "1" },
+    { "key": "bookingId", "value": "1" },
+    { "key": "reviewId", "value": "1" },
+    { "key": "roomId", "value": "1" },
+    { "key": "hotelId", "value": "1" }
+  ],
+  "event": [
+    {
+      "listen": "test",
+      "script": {
+        "type": "text/javascript",
+        "exec": [
+          "const allowedStatusByRequest = {",
+          "  'Register': [200, 201, 400, 409],",
+          "  'Login': [200, 400, 401],",
+          "  'Get Me': [200, 401],",
+          "  'Get Users': [200, 401, 403],",
+          "  'Get User By Id': [200, 404],",
+          "  'Get User Favorites': [200, 401, 403, 404],",
+          "  'Add Favorite': [200, 400, 401, 403, 404],",
+          "  'Remove Favorite': [200, 400, 401, 403, 404],",
+          "  'Block User': [200, 400, 401, 403, 404],",
+          "  'Unblock User': [200, 401, 403, 404],",
+          "  'Get Hotels': [200],",
+          "  'Get Hotel By Id': [200, 404],",
+          "  'Get Hotels By City': [200, 400, 404],",
+          "  'Search Hotels': [200, 400],",
+          "  'Top Rated Hotels': [200],",
+          "  'Get Cities': [200],",
+          "  'Get City By Id': [200, 404],",
+          "  'Get City Hotels': [200, 400, 404],",
+          "  'Get Rooms By Hotel': [200, 404],",
+          "  'Get Room By Id': [200, 404],",
+          "  'Get Available Rooms': [200, 400],",
+          "  'Get Room Type Groups': [200, 400],",
+          "  'Get Room Types': [200],",
+          "  'Get Room Amenity Types': [200],",
+          "  'Create Booking': [200, 201, 400, 401, 403],",
+          "  'Get User Bookings': [200, 401, 403],",
+          "  'Get Booking By Id': [200, 401, 403, 404],",
+          "  'Create Review': [200, 201, 400, 401, 403, 404],",
+          "  'Get Hotel Reviews': [200],",
+          "  'Get Pending Reviews': [200, 401, 403],",
+          "  'Popular Hotels': [200],",
+          "  'Popular Destinations': [200],",
+          "  'Similar Hotels': [200, 404],",
+          "  'Get My Notifications': [200, 401],",
+          "  'Mark Notification Read': [200, 400, 401, 404],",
+          "  'Upload Hotel Image (manual)': [200, 201, 400, 401, 403],",
+          "  'Upload Room Image (manual)': [200, 201, 400, 401, 403]",
+          "};",
+          "",
+          "const requestName = pm.info.requestName;",
+          "const allowed = allowedStatusByRequest[requestName] || [200];",
+          "pm.test(`Status code for '${requestName}' is expected`, function () {",
+          "  pm.expect(allowed).to.include(pm.response.code);",
+          "});",
+          "",
+          "pm.test('Response is JSON', function () {",
+          "  pm.response.to.be.withBody;",
+          "  pm.response.to.be.json;",
+          "});",
+          "",
+          "pm.test('Response has standard body shape', function () {",
+          "  const json = pm.response.json();",
+          "  if (requestName.startsWith('Popular') || requestName === 'Similar Hotels') {",
+          "    const acceptable = Array.isArray(json) || typeof json === 'object';",
+          "    pm.expect(acceptable).to.eql(true);",
+          "    return;",
+          "  }",
+          "  const hasEnvelope = Object.prototype.hasOwnProperty.call(json, 'success') ||",
+          "    Object.prototype.hasOwnProperty.call(json, 'data') ||",
+          "    Object.prototype.hasOwnProperty.call(json, 'message') ||",
+          "    Object.prototype.hasOwnProperty.call(json, 'errors');",
+          "  pm.expect(hasEnvelope).to.eql(true);",
+          "});"
+        ]
+      }
+    }
+  ],
+  "item": [
+    {
+      "name": "AuthController",
+      "item": [
+        {
+          "name": "Register",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{\n  \"email\": \"pm_user@example.com\",\n  \"password\": \"Password1\",\n  \"firstName\": \"Postman\",\n  \"lastName\": \"User\"\n}" },
+            "url": "{{baseUrl}}/auth/register"
+          }
+        },
+        {
+          "name": "Login",
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "exec": [
+                  "if (pm.response.code === 200) {",
+                  "  const json = pm.response.json();",
+                  "  pm.collectionVariables.set('token', json.data.token);",
+                  "  if (json.data.user && json.data.user.id) pm.collectionVariables.set('userId', String(json.data.user.id));",
+                  "}"
+                ],
+                "type": "text/javascript"
+              }
+            }
+          ],
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{\n  \"email\": \"admin@nookbook.com\",\n  \"password\": \"admin123\"\n}" },
+            "url": "{{baseUrl}}/auth/login"
+          }
+        },
+        {
+          "name": "Get Me",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Authorization", "value": "Bearer {{token}}" }],
+            "url": "{{baseUrl}}/auth/me"
+          }
+        }
+      ]
+    },
+    {
+      "name": "UsersController",
+      "item": [
+        { "name": "Get Users", "request": { "method": "GET", "header": [{ "key": "Authorization", "value": "Bearer {{token}}" }], "url": "{{baseUrl}}/users" } },
+        { "name": "Get User By Id", "request": { "method": "GET", "url": "{{baseUrl}}/users/{{userId}}" } },
+        { "name": "Get User Favorites", "request": { "method": "GET", "header": [{ "key": "Authorization", "value": "Bearer {{token}}" }], "url": "{{baseUrl}}/users/{{userId}}/favorites" } },
+        { "name": "Add Favorite", "request": { "method": "POST", "header": [{ "key": "Authorization", "value": "Bearer {{token}}" }], "url": "{{baseUrl}}/users/{{userId}}/favorites/{{hotelId}}" } },
+        { "name": "Remove Favorite", "request": { "method": "DELETE", "header": [{ "key": "Authorization", "value": "Bearer {{token}}" }], "url": "{{baseUrl}}/users/{{userId}}/favorites/{{hotelId}}" } },
+        { "name": "Block User", "request": { "method": "POST", "header": [{ "key": "Authorization", "value": "Bearer {{token}}" }, { "key": "Content-Type", "value": "application/json" }], "body": { "mode": "raw", "raw": "{\n  \"reason\": \"Проверка\"\n}" }, "url": "{{baseUrl}}/users/2/block" } },
+        { "name": "Unblock User", "request": { "method": "POST", "header": [{ "key": "Authorization", "value": "Bearer {{token}}" }], "url": "{{baseUrl}}/users/2/unblock" } }
+      ]
+    },
+    {
+      "name": "HotelsController",
+      "item": [
+        { "name": "Get Hotels", "request": { "method": "GET", "url": "{{baseUrl}}/hotels" } },
+        { "name": "Get Hotel By Id", "request": { "method": "GET", "url": "{{baseUrl}}/hotels/{{hotelId}}" } },
+        { "name": "Get Hotels By City", "request": { "method": "GET", "url": "{{baseUrl}}/hotels/city/1" } },
+        { "name": "Search Hotels", "request": { "method": "POST", "header": [{ "key": "Content-Type", "value": "application/json" }], "body": { "mode": "raw", "raw": "{\n  \"cityId\": 1,\n  \"checkInDate\": \"2026-06-01\",\n  \"checkOutDate\": \"2026-06-05\",\n  \"guestCount\": 2\n}" }, "url": "{{baseUrl}}/hotels/search" } },
+        { "name": "Top Rated Hotels", "request": { "method": "GET", "url": "{{baseUrl}}/hotels/top-rated" } }
+      ]
+    },
+    {
+      "name": "CitiesController",
+      "item": [
+        { "name": "Get Cities", "request": { "method": "GET", "url": "{{baseUrl}}/cities" } },
+        { "name": "Get City By Id", "request": { "method": "GET", "url": "{{baseUrl}}/cities/1" } },
+        { "name": "Get City Hotels", "request": { "method": "GET", "url": "{{baseUrl}}/cities/1/hotels" } }
+      ]
+    },
+    {
+      "name": "RoomsController",
+      "item": [
+        { "name": "Get Rooms By Hotel", "request": { "method": "GET", "url": "{{baseUrl}}/rooms/hotel/1" } },
+        { "name": "Get Room By Id", "request": { "method": "GET", "url": "{{baseUrl}}/rooms/{{roomId}}" } },
+        { "name": "Get Available Rooms", "request": { "method": "GET", "url": "{{baseUrl}}/rooms/hotel/1/available?checkIn=2026-06-01&checkOut=2026-06-05&guests=2" } },
+        { "name": "Get Room Type Groups", "request": { "method": "GET", "url": "{{baseUrl}}/rooms/hotel/1/room-types?checkIn=2026-06-01&checkOut=2026-06-05&guests=2" } },
+        { "name": "Get Room Types", "request": { "method": "GET", "url": "{{baseUrl}}/rooms/types" } },
+        { "name": "Get Room Amenity Types", "request": { "method": "GET", "url": "{{baseUrl}}/rooms/amenity-types" } }
+      ]
+    },
+    {
+      "name": "BookingsController",
+      "item": [
+        {
+          "name": "Create Booking",
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "exec": [
+                  "if (pm.response.code === 201 || pm.response.code === 200) {",
+                  "  const json = pm.response.json();",
+                  "  if (json.data && json.data.id) pm.collectionVariables.set('bookingId', String(json.data.id));",
+                  "}"
+                ],
+                "type": "text/javascript"
+              }
+            }
+          ],
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Authorization", "value": "Bearer {{token}}" }, { "key": "Content-Type", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{\n  \"userId\": {{userId}},\n  \"roomId\": 1,\n  \"checkInDate\": \"2026-06-10\",\n  \"checkOutDate\": \"2026-06-13\",\n  \"guestCount\": 2\n}" },
+            "url": "{{baseUrl}}/bookings"
+          }
+        },
+        { "name": "Get User Bookings", "request": { "method": "GET", "header": [{ "key": "Authorization", "value": "Bearer {{token}}" }], "url": "{{baseUrl}}/bookings/user/{{userId}}" } },
+        { "name": "Get Booking By Id", "request": { "method": "GET", "header": [{ "key": "Authorization", "value": "Bearer {{token}}" }], "url": "{{baseUrl}}/bookings/{{bookingId}}" } }
+      ]
+    },
+    {
+      "name": "ReviewsController",
+      "item": [
+        {
+          "name": "Create Review",
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "exec": [
+                  "if (pm.response.code === 200 || pm.response.code === 201) {",
+                  "  const json = pm.response.json();",
+                  "  if (json.data && json.data.id) pm.collectionVariables.set('reviewId', String(json.data.id));",
+                  "}"
+                ],
+                "type": "text/javascript"
+              }
+            }
+          ],
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Authorization", "value": "Bearer {{token}}" }, { "key": "Content-Type", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{\n  \"bookingId\": {{bookingId}},\n  \"rating\": 8,\n  \"comment\": \"Отличный отель, рекомендую всем\",\n  \"positiveTags\": [\"Чистота\"]\n}" },
+            "url": "{{baseUrl}}/reviews"
+          }
+        },
+        { "name": "Get Hotel Reviews", "request": { "method": "GET", "url": "{{baseUrl}}/reviews/hotel/1" } },
+        { "name": "Get Pending Reviews", "request": { "method": "GET", "header": [{ "key": "Authorization", "value": "Bearer {{token}}" }], "url": "{{baseUrl}}/reviews/pending" } }
+      ]
+    },
+    {
+      "name": "RecommendationsController",
+      "item": [
+        { "name": "Popular Hotels", "request": { "method": "GET", "url": "{{baseUrl}}/recommendations/popular-hotels?limit=5" } },
+        { "name": "Popular Destinations", "request": { "method": "GET", "url": "{{baseUrl}}/recommendations/popular-destinations?limit=5" } },
+        { "name": "Similar Hotels", "request": { "method": "GET", "url": "{{baseUrl}}/recommendations/similar/1?limit=4" } }
+      ]
+    },
+    {
+      "name": "NotificationsController",
+      "item": [
+        { "name": "Get My Notifications", "request": { "method": "GET", "header": [{ "key": "Authorization", "value": "Bearer {{token}}" }], "url": "{{baseUrl}}/notifications/me" } },
+        { "name": "Mark Notification Read", "request": { "method": "POST", "header": [{ "key": "Authorization", "value": "Bearer {{token}}" }], "url": "{{baseUrl}}/notifications/00000000-0000-0000-0000-000000000001/read" } }
+      ]
+    },
+    {
+      "name": "UploadsController",
+      "item": [
+        { "name": "Upload Hotel Image (manual)", "request": { "method": "POST", "url": "{{baseUrl}}/uploads/hotels" } },
+        { "name": "Upload Room Image (manual)", "request": { "method": "POST", "url": "{{baseUrl}}/uploads/rooms" } }
+      ]
+    }
+  ]
+}

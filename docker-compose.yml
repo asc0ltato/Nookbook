@@ -1,0 +1,117 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:18.4-alpine
+    container_name: nookbook-postgres
+    environment:
+      POSTGRES_DB: NookBookHotels
+      POSTGRES_USER: nookbook
+      POSTGRES_PASSWORD: nookbook123
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U nookbook -d NookBookHotels"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - nookbook-network
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: nookbook-backend
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=http://+:5223
+      - ConnectionStrings__DefaultConnection=Host=postgres;Port=5432;Database=NookBookHotels;Username=nookbook;Password=nookbook123;
+      - Jwt__Secret=nookbook-super-secret-jwt-key-must-be-at-least-32-characters-long
+      - Jwt__Issuer=NookBookAPI
+      - Jwt__Audience=NookBookClient
+      - Jwt__ExpiryDays=7
+      - FrontendUrl=https://localhost:8443
+      - EmailSettings__SmtpServer=smtp.gmail.com
+      - EmailSettings__SmtpPort=587
+      - EmailSettings__SenderEmail=${EMAIL_SENDER:-superpando4ka@gmail.com}
+      - EmailSettings__SenderPassword=${EMAIL_PASSWORD:-uagp tdsm redv onkc}
+      - EmailSettings__SenderName=NookBook
+      - OAuth__Google__ClientId=${GOOGLE_CLIENT_ID:-664769755417-s1ec7ahgcmvlsllsf5dj9j0bmdbm2tu3.apps.googleusercontent.com}
+      - OAuth__Google__ClientSecret=${GOOGLE_CLIENT_SECRET:-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}
+      - OAuth__Mailru__ClientId=${MAILRU_CLIENT_ID:-019bd374c98b737d83a72eeb86aa4f32}
+      - OAuth__Mailru__ClientSecret=${MAILRU_CLIENT_SECRET:-019bd374c98b7389846ea72be674c626}
+      - Uploads__AssetsRoot=/app/assets
+    expose:
+      - "5223"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    volumes:
+      - ./frontend/public/assets:/app/assets
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "wget --no-verbose --tries=1 --spider http://localhost:5223/api/cities || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+    networks:
+      - nookbook-network
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+      args:
+        - DOCKER_BUILD=true
+        - NEXT_PUBLIC_API_URL=https://localhost:8443/api
+        - NEXT_PUBLIC_YANDEX_MAP_API_KEY=${YANDEX_MAP_API_KEY:-d32b0885-eb44-45fe-99bb-83354f704178}
+        - NEXT_PUBLIC_GOOGLE_CLIENT_ID=${GOOGLE_CLIENT_ID:-664769755417-s1ec7ahgcmvlsllsf5dj9j0bmdbm2tu3.apps.googleusercontent.com}
+        - NEXT_PUBLIC_MAILRU_CLIENT_ID=${MAILRU_CLIENT_ID:-019bd374c98b737d83a72eeb86aa4f32}
+    container_name: nookbook-frontend
+    environment:
+      - NODE_ENV=production
+      - DOCKER_ENV=true
+      - NEXT_PUBLIC_API_URL=https://localhost:8443/api
+      - BACKEND_URL=http://backend:5223/api
+      - NEXT_PUBLIC_YANDEX_MAP_API_KEY=${YANDEX_MAP_API_KEY:-d32b0885-eb44-45fe-99bb-83354f704178}
+      - NEXT_PUBLIC_GOOGLE_CLIENT_ID=${GOOGLE_CLIENT_ID:-664769755417-s1ec7ahgcmvlsllsf5dj9j0bmdbm2tu3.apps.googleusercontent.com}
+      - NEXT_PUBLIC_MAILRU_CLIENT_ID=${MAILRU_CLIENT_ID:-019bd374c98b737d83a72eeb86aa4f32}
+    expose:
+      - "3000"
+    depends_on:
+      - backend
+    volumes:
+      - ./frontend/public:/app/public
+    restart: unless-stopped
+    networks:
+      - nookbook-network
+
+  nginx:
+    image: nginx:alpine
+    container_name: nookbook-nginx
+    ports:
+      - "8000:80"
+      - "8443:443"
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./nginx/ssl:/etc/nginx/ssl:ro
+      - ./frontend/public:/usr/share/nginx/html:ro
+    depends_on:
+      - frontend
+      - backend
+    restart: unless-stopped
+    networks:
+      - nookbook-network
+
+networks:
+  nookbook-network:
+    driver: bridge
+
+volumes:
+  postgres_data:
+    driver: local

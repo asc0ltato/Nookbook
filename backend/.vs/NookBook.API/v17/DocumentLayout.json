@@ -1,0 +1,1278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\nookbook.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:nookbook.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\nookbook.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:nookbook.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\services\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:services\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\dtos\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:dtos\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\repositories\\hotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:repositories\\hotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\services\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:services\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\services\\abstractions\\ihotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:services\\abstractions\\ihotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\services\\abstractions\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:services\\abstractions\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\services\\abstractions\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:services\\abstractions\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\dtos\\hoteldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:dtos\\hoteldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\services\\abstractions\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:services\\abstractions\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\validators\\registeruservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:validators\\registeruservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\validators\\createroomvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:validators\\createroomvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\validators\\createreviewvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:validators\\createreviewvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\validators\\createhotelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:validators\\createhotelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\validators\\createbookingvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:validators\\createbookingvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\services\\abstractions\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:services\\abstractions\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\services\\abstractions\\icityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:services\\abstractions\\icityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\services\\abstractions\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:services\\abstractions\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\repositories\\abstractions\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:repositories\\abstractions\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\repositories\\abstractions\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:repositories\\abstractions\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\repositories\\abstractions\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:repositories\\abstractions\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\repositories\\abstractions\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:repositories\\abstractions\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\repositories\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:repositories\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\repositories\\abstractions\\ifavoriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:repositories\\abstractions\\ifavoriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\repositories\\abstractions\\icityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:repositories\\abstractions\\icityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\repositories\\abstractions\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:repositories\\abstractions\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\repositories\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:repositories\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\repositories\\favoriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:repositories\\favoriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\repositories\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:repositories\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\models\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:models\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\models\\roomamenitytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:models\\roomamenitytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\models\\roomamenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:models\\roomamenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\models\\hotelamenitytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:models\\hotelamenitytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\models\\hotelamenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:models\\hotelamenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\models\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:models\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\dtos\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:dtos\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\dtos\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:dtos\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\dtos\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:dtos\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\controllers\\uploadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:controllers\\uploadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\dtos\\setroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:dtos\\setroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\dtos\\searchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:dtos\\searchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\dtos\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:dtos\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\dtos\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:dtos\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\repositories\\abstractions\\ihotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:repositories\\abstractions\\ihotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ascoltat0\\Desktop\\NookBook\\nookbook-hotels-api\\NookBook.API\\WeatherForecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NookBook.API",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\NookBook.API.csproj",
+              "RelativeDocumentMoniker": "NookBook.API.csproj",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\NookBook.API.csproj",
+              "RelativeToolTip": "NookBook.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-13T11:43:50.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CityService.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Services\\CityService.cs",
+              "RelativeDocumentMoniker": "Services\\CityService.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Services\\CityService.cs",
+              "RelativeToolTip": "Services\\CityService.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAhwE8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T16:57:49.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CityDto.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\DTOs\\CityDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CityDto.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\DTOs\\CityDto.cs",
+              "RelativeToolTip": "DTOs\\CityDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:45:17.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "Controllers\\BookingsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:50:04.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Controllers\\CitiesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CitiesController.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Controllers\\CitiesController.cs",
+              "RelativeToolTip": "Controllers\\CitiesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:50:05.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAtwD4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:44:26.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AgIAAEYCAAAAAAAAAAAlwFECAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T22:57:13.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NookBook.API.csproj",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\NookBook.API.csproj",
+              "RelativeDocumentMoniker": "NookBook.API.csproj",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\NookBook.API.csproj",
+              "RelativeToolTip": "NookBook.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-18T23:07:46.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HotelsController.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Controllers\\HotelsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HotelsController.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Controllers\\HotelsController.cs",
+              "RelativeToolTip": "Controllers\\HotelsController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAIA3wCAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T23:05:29.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAlwBcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T16:57:25.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Models\\City.cs",
+              "RelativeDocumentMoniker": "Models\\City.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Models\\City.cs",
+              "RelativeToolTip": "Models\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:44:59.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAMEBAAAAAAAAAAAAAM4BAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T23:33:50.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "Models\\Review.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Models\\Review.cs",
+              "RelativeToolTip": "Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:45:03.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-27T22:50:56.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-02T23:13:13.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-02T23:13:17.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HotelRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Repositories\\HotelRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\HotelRepository.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Repositories\\HotelRepository.cs",
+              "RelativeToolTip": "Repositories\\HotelRepository.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAswGIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T16:57:06.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IHotelService.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Services\\Abstractions\\IHotelService.cs",
+              "RelativeDocumentMoniker": "Services\\Abstractions\\IHotelService.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Services\\Abstractions\\IHotelService.cs",
+              "RelativeToolTip": "Services\\Abstractions\\IHotelService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:48:48.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HotelService.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Services\\HotelService.cs",
+              "RelativeDocumentMoniker": "Services\\HotelService.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Services\\HotelService.cs",
+              "RelativeToolTip": "Services\\HotelService.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAQwKoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:47:24.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:45:04.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAcwG4AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T22:20:46.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Services\\Abstractions\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\Abstractions\\IUserService.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Services\\Abstractions\\IUserService.cs",
+              "RelativeToolTip": "Services\\Abstractions\\IUserService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA3wBUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T21:32:53.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAN4BAAAAAAAAAAAQwO4BAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T22:41:16.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Services\\ReviewService.cs",
+              "RelativeDocumentMoniker": "Services\\ReviewService.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Services\\ReviewService.cs",
+              "RelativeToolTip": "Services\\ReviewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T19:59:10.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Services\\Abstractions\\IReviewService.cs",
+              "RelativeDocumentMoniker": "Services\\Abstractions\\IReviewService.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Services\\Abstractions\\IReviewService.cs",
+              "RelativeToolTip": "Services\\Abstractions\\IReviewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T21:32:51.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReviewsController.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "Controllers\\ReviewsController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:50:06.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HotelDto.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\DTOs\\HotelDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\HotelDto.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\DTOs\\HotelDto.cs",
+              "RelativeToolTip": "DTOs\\HotelDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:45:18.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Services\\Abstractions\\IBookingService.cs",
+              "RelativeDocumentMoniker": "Services\\Abstractions\\IBookingService.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Services\\Abstractions\\IBookingService.cs",
+              "RelativeToolTip": "Services\\Abstractions\\IBookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:48:45.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RegisterUserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Validators\\RegisterUserValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\RegisterUserValidator.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Validators\\RegisterUserValidator.cs",
+              "RelativeToolTip": "Validators\\RegisterUserValidator.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:46:10.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CreateReviewValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Validators\\CreateReviewValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\CreateReviewValidator.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Validators\\CreateReviewValidator.cs",
+              "RelativeToolTip": "Validators\\CreateReviewValidator.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:46:08.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CreateRoomValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Validators\\CreateRoomValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\CreateRoomValidator.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Validators\\CreateRoomValidator.cs",
+              "RelativeToolTip": "Validators\\CreateRoomValidator.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:46:09.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CreateHotelValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Validators\\CreateHotelValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\CreateHotelValidator.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Validators\\CreateHotelValidator.cs",
+              "RelativeToolTip": "Validators\\CreateHotelValidator.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:46:07.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CreateBookingValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Validators\\CreateBookingValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\CreateBookingValidator.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Validators\\CreateBookingValidator.cs",
+              "RelativeToolTip": "Validators\\CreateBookingValidator.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwA0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:46:03.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Services\\RoomService.cs",
+              "RelativeDocumentMoniker": "Services\\RoomService.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Services\\RoomService.cs",
+              "RelativeToolTip": "Services\\RoomService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T23:19:10.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Services\\EmailService.cs",
+              "RelativeToolTip": "Services\\EmailService.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAgwIEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T21:34:00.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IRoomService.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Services\\Abstractions\\IRoomService.cs",
+              "RelativeDocumentMoniker": "Services\\Abstractions\\IRoomService.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Services\\Abstractions\\IRoomService.cs",
+              "RelativeToolTip": "Services\\Abstractions\\IRoomService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T21:32:52.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Services\\Abstractions\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Services\\Abstractions\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Services\\Abstractions\\IAuthService.cs",
+              "RelativeToolTip": "Services\\Abstractions\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T17:22:21.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "Services\\BookingService.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Services\\BookingService.cs",
+              "RelativeToolTip": "Services\\BookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T19:59:00.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Repositories\\Abstractions\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Abstractions\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Repositories\\Abstractions\\IUserRepository.cs",
+              "RelativeToolTip": "Repositories\\Abstractions\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T16:57:28.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Repositories\\Abstractions\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Repositories\\Abstractions\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Repositories\\Abstractions\\IUnitOfWork.cs",
+              "RelativeToolTip": "Repositories\\Abstractions\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:44:45.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ICityService.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Services\\Abstractions\\ICityService.cs",
+              "RelativeDocumentMoniker": "Services\\Abstractions\\ICityService.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Services\\Abstractions\\ICityService.cs",
+              "RelativeToolTip": "Services\\Abstractions\\ICityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:48:47.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IRoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Repositories\\Abstractions\\IRoomRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Abstractions\\IRoomRepository.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Repositories\\Abstractions\\IRoomRepository.cs",
+              "RelativeToolTip": "Repositories\\Abstractions\\IRoomRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T16:57:14.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Repositories\\Abstractions\\IReviewRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Abstractions\\IReviewRepository.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Repositories\\Abstractions\\IReviewRepository.cs",
+              "RelativeToolTip": "Repositories\\Abstractions\\IReviewRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:44:37.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Repositories\\Abstractions\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Abstractions\\IRepository.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Repositories\\Abstractions\\IRepository.cs",
+              "RelativeToolTip": "Repositories\\Abstractions\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T16:57:53.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IFavoriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Repositories\\Abstractions\\IFavoriteRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Abstractions\\IFavoriteRepository.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Repositories\\Abstractions\\IFavoriteRepository.cs",
+              "RelativeToolTip": "Repositories\\Abstractions\\IFavoriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:44:34.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ICityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Repositories\\Abstractions\\ICityRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Abstractions\\ICityRepository.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Repositories\\Abstractions\\ICityRepository.cs",
+              "RelativeToolTip": "Repositories\\Abstractions\\ICityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:44:42.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Repositories\\Abstractions\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Abstractions\\IBookingRepository.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Repositories\\Abstractions\\IBookingRepository.cs",
+              "RelativeToolTip": "Repositories\\Abstractions\\IBookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T21:31:04.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T21:30:57.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Repositories\\Repository.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:44:46.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "FavoriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Repositories\\FavoriteRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\FavoriteRepository.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Repositories\\FavoriteRepository.cs",
+              "RelativeToolTip": "Repositories\\FavoriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:44:39.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Repositories\\CityRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CityRepository.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Repositories\\CityRepository.cs",
+              "RelativeToolTip": "Repositories\\CityRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIBJwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:44:30.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Repositories\\ReviewRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ReviewRepository.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Repositories\\ReviewRepository.cs",
+              "RelativeToolTip": "Repositories\\ReviewRepository.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:44:47.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Repositories\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\BookingRepository.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Repositories\\BookingRepository.cs",
+              "RelativeToolTip": "Repositories\\BookingRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:44:30.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "RoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Repositories\\RoomRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\RoomRepository.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Repositories\\RoomRepository.cs",
+              "RelativeToolTip": "Repositories\\RoomRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T21:30:16.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "RoomAmenityType.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Models\\RoomAmenityType.cs",
+              "RelativeDocumentMoniker": "Models\\RoomAmenityType.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Models\\RoomAmenityType.cs",
+              "RelativeToolTip": "Models\\RoomAmenityType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T20:39:32.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "RoomAmenity.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Models\\RoomAmenity.cs",
+              "RelativeDocumentMoniker": "Models\\RoomAmenity.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Models\\RoomAmenity.cs",
+              "RelativeToolTip": "Models\\RoomAmenity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T20:39:30.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "Models\\Room.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Models\\Room.cs",
+              "RelativeToolTip": "Models\\Room.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAzwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:45:03.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "HotelAmenityType.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Models\\HotelAmenityType.cs",
+              "RelativeDocumentMoniker": "Models\\HotelAmenityType.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Models\\HotelAmenityType.cs",
+              "RelativeToolTip": "Models\\HotelAmenityType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T20:39:22.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "HotelAmenity.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Models\\HotelAmenity.cs",
+              "RelativeDocumentMoniker": "Models\\HotelAmenity.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Models\\HotelAmenity.cs",
+              "RelativeToolTip": "Models\\HotelAmenity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:45:01.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Models\\Hotel.cs",
+              "RelativeDocumentMoniker": "Models\\Hotel.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Models\\Hotel.cs",
+              "RelativeToolTip": "Models\\Hotel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAzwBMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T20:38:39.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "RoomType.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Models\\RoomType.cs",
+              "RelativeDocumentMoniker": "Models\\RoomType.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Models\\RoomType.cs",
+              "RelativeToolTip": "Models\\RoomType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T20:39:35.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Favorite.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Models\\Favorite.cs",
+              "RelativeDocumentMoniker": "Models\\Favorite.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Models\\Favorite.cs",
+              "RelativeToolTip": "Models\\Favorite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:45:00.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Models\\Booking.cs",
+              "RelativeToolTip": "Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:44:51.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ForgotPasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\DTOs\\ForgotPasswordDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ForgotPasswordDto.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\DTOs\\ForgotPasswordDto.cs",
+              "RelativeToolTip": "DTOs\\ForgotPasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T22:57:01.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "BookingDto.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\DTOs\\BookingDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\BookingDto.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\DTOs\\BookingDto.cs",
+              "RelativeToolTip": "DTOs\\BookingDto.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:45:15.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\DTOs\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "DTOs\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\DTOs\\ApiResponse.cs",
+              "RelativeToolTip": "DTOs\\ApiResponse.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:45:12.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "UploadsController.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Controllers\\UploadsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UploadsController.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Controllers\\UploadsController.cs",
+              "RelativeToolTip": "Controllers\\UploadsController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T21:25:24.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T22:41:56.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "RoomsController.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Controllers\\RoomsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoomsController.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Controllers\\RoomsController.cs",
+              "RelativeToolTip": "Controllers\\RoomsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T22:56:55.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "RoomDto.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\DTOs\\RoomDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\RoomDto.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\DTOs\\RoomDto.cs",
+              "RelativeToolTip": "DTOs\\RoomDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:45:20.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:45:22.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "SetRoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\DTOs\\SetRoleDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\SetRoleDto.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\DTOs\\SetRoleDto.cs",
+              "RelativeToolTip": "DTOs\\SetRoleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T22:44:13.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "SearchDto.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\DTOs\\SearchDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\SearchDto.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\DTOs\\SearchDto.cs",
+              "RelativeToolTip": "DTOs\\SearchDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:45:21.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ReviewDto.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\DTOs\\ReviewDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ReviewDto.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\DTOs\\ReviewDto.cs",
+              "RelativeToolTip": "DTOs\\ReviewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T22:57:04.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T22:44:17.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\nookbook-hotels-api\\NookBook.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "..\\nookbook-hotels-api\\NookBook.API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\nookbook-hotels-api\\NookBook.API\\WeatherForecast.cs",
+              "RelativeToolTip": "..\\nookbook-hotels-api\\NookBook.API\\WeatherForecast.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:44:25.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "IHotelRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Repositories\\Abstractions\\IHotelRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Abstractions\\IHotelRepository.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Repositories\\Abstractions\\IHotelRepository.cs",
+              "RelativeToolTip": "Repositories\\Abstractions\\IHotelRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:44:43.775Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 908,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,537 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\nookbook.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:nookbook.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32885A8E-F61B-4086-A89D-A311D761291F}|NookBook.API.Tests\\NookBook.API.Tests.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\nookbook.api.tests\\services\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32885A8E-F61B-4086-A89D-A311D761291F}|NookBook.API.Tests\\NookBook.API.Tests.csproj|solutionrelative:nookbook.api.tests\\services\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32885A8E-F61B-4086-A89D-A311D761291F}|NookBook.API.Tests\\NookBook.API.Tests.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\nookbook.api.tests\\integration\\bookingsapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32885A8E-F61B-4086-A89D-A311D761291F}|NookBook.API.Tests\\NookBook.API.Tests.csproj|solutionrelative:nookbook.api.tests\\integration\\bookingsapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32885A8E-F61B-4086-A89D-A311D761291F}|NookBook.API.Tests\\NookBook.API.Tests.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\nookbook.api.tests\\integration\\authapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32885A8E-F61B-4086-A89D-A311D761291F}|NookBook.API.Tests\\NookBook.API.Tests.csproj|solutionrelative:nookbook.api.tests\\integration\\authapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32885A8E-F61B-4086-A89D-A311D761291F}|NookBook.API.Tests\\NookBook.API.Tests.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\nookbook.api.tests\\helpers\\testdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32885A8E-F61B-4086-A89D-A311D761291F}|NookBook.API.Tests\\NookBook.API.Tests.csproj|solutionrelative:nookbook.api.tests\\helpers\\testdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32885A8E-F61B-4086-A89D-A311D761291F}|NookBook.API.Tests\\NookBook.API.Tests.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\nookbook.api.tests\\helpers\\testconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32885A8E-F61B-4086-A89D-A311D761291F}|NookBook.API.Tests\\NookBook.API.Tests.csproj|solutionrelative:nookbook.api.tests\\helpers\\testconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32885A8E-F61B-4086-A89D-A311D761291F}|NookBook.API.Tests\\NookBook.API.Tests.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\nookbook.api.tests\\services\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32885A8E-F61B-4086-A89D-A311D761291F}|NookBook.API.Tests\\NookBook.API.Tests.csproj|solutionrelative:nookbook.api.tests\\services\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32885A8E-F61B-4086-A89D-A311D761291F}|NookBook.API.Tests\\NookBook.API.Tests.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\nookbook.api.tests\\services\\reviewservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32885A8E-F61B-4086-A89D-A311D761291F}|NookBook.API.Tests\\NookBook.API.Tests.csproj|solutionrelative:nookbook.api.tests\\services\\reviewservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32885A8E-F61B-4086-A89D-A311D761291F}|NookBook.API.Tests\\NookBook.API.Tests.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\nookbook.api.tests\\services\\recommendationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32885A8E-F61B-4086-A89D-A311D761291F}|NookBook.API.Tests\\NookBook.API.Tests.csproj|solutionrelative:nookbook.api.tests\\services\\recommendationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32885A8E-F61B-4086-A89D-A311D761291F}|NookBook.API.Tests\\NookBook.API.Tests.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\nookbook.api.tests\\services\\commentmoderationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32885A8E-F61B-4086-A89D-A311D761291F}|NookBook.API.Tests\\NookBook.API.Tests.csproj|solutionrelative:nookbook.api.tests\\services\\commentmoderationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32885A8E-F61B-4086-A89D-A311D761291F}|NookBook.API.Tests\\NookBook.API.Tests.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\nookbook.api.tests\\services\\bookingservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32885A8E-F61B-4086-A89D-A311D761291F}|NookBook.API.Tests\\NookBook.API.Tests.csproj|solutionrelative:nookbook.api.tests\\services\\bookingservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32885A8E-F61B-4086-A89D-A311D761291F}|NookBook.API.Tests\\NookBook.API.Tests.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\nookbook.api.tests\\integration\\usersapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32885A8E-F61B-4086-A89D-A311D761291F}|NookBook.API.Tests\\NookBook.API.Tests.csproj|solutionrelative:nookbook.api.tests\\integration\\usersapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32885A8E-F61B-4086-A89D-A311D761291F}|NookBook.API.Tests\\NookBook.API.Tests.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\nookbook.api.tests\\integration\\reviewsapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32885A8E-F61B-4086-A89D-A311D761291F}|NookBook.API.Tests\\NookBook.API.Tests.csproj|solutionrelative:nookbook.api.tests\\integration\\reviewsapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32885A8E-F61B-4086-A89D-A311D761291F}|NookBook.API.Tests\\NookBook.API.Tests.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\nookbook.api.tests\\integration\\recommendationsapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32885A8E-F61B-4086-A89D-A311D761291F}|NookBook.API.Tests\\NookBook.API.Tests.csproj|solutionrelative:nookbook.api.tests\\integration\\recommendationsapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32885A8E-F61B-4086-A89D-A311D761291F}|NookBook.API.Tests\\NookBook.API.Tests.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\nookbook.api.tests\\integration\\integrationtestbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32885A8E-F61B-4086-A89D-A311D761291F}|NookBook.API.Tests\\NookBook.API.Tests.csproj|solutionrelative:nookbook.api.tests\\integration\\integrationtestbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32885A8E-F61B-4086-A89D-A311D761291F}|NookBook.API.Tests\\NookBook.API.Tests.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\nookbook.api.tests\\integration\\hotelsapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32885A8E-F61B-4086-A89D-A311D761291F}|NookBook.API.Tests\\NookBook.API.Tests.csproj|solutionrelative:nookbook.api.tests\\integration\\hotelsapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32885A8E-F61B-4086-A89D-A311D761291F}|NookBook.API.Tests\\NookBook.API.Tests.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\nookbook.api.tests\\integration\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32885A8E-F61B-4086-A89D-A311D761291F}|NookBook.API.Tests\\NookBook.API.Tests.csproj|solutionrelative:nookbook.api.tests\\integration\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32885A8E-F61B-4086-A89D-A311D761291F}|NookBook.API.Tests\\NookBook.API.Tests.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\nookbook.api.tests\\nookbook.api.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{32885A8E-F61B-4086-A89D-A311D761291F}|NookBook.API.Tests\\NookBook.API.Tests.csproj|solutionrelative:nookbook.api.tests\\nookbook.api.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\constants\\reviewtagnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:constants\\reviewtagnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\models\\blockhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:models\\blockhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|c:\\users\\ascoltat0\\desktop\\nookbook\\backend\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C17E1-FDAF-562F-EA66-9392EC6FA872}|NookBook.API.csproj|solutionrelative:models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ascoltat0\\Desktop\\NookBook\\nookbook-hotels-api\\NookBook.API\\WeatherForecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\Models\\UserPreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\UserPreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-27T11:57:24.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\package-lock.json",
+              "RelativeDocumentMoniker": "package-lock.json",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\package-lock.json",
+              "RelativeToolTip": "package-lock.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-27T11:57:17.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-27T11:57:06.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NookBook.API.csproj",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\NookBook.API.csproj",
+              "RelativeDocumentMoniker": "NookBook.API.csproj",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\NookBook.API.csproj",
+              "RelativeToolTip": "NookBook.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-27T11:02:39.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\NookBook.API.Tests\\Helpers\\TestDbContextFactory.cs",
+              "RelativeDocumentMoniker": "NookBook.API.Tests\\Helpers\\TestDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\NookBook.API.Tests\\Helpers\\TestDbContextFactory.cs",
+              "RelativeToolTip": "NookBook.API.Tests\\Helpers\\TestDbContextFactory.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAgwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T06:52:32.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAG4GAAAAAAAAAAAwwHgGAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T05:52:59.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\NookBook.API.Tests\\Services\\AuthServiceTests.cs",
+              "RelativeDocumentMoniker": "NookBook.API.Tests\\Services\\AuthServiceTests.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\NookBook.API.Tests\\Services\\AuthServiceTests.cs",
+              "RelativeToolTip": "NookBook.API.Tests\\Services\\AuthServiceTests.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAwwI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T06:52:10.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthApiTests.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\NookBook.API.Tests\\Integration\\AuthApiTests.cs",
+              "RelativeDocumentMoniker": "NookBook.API.Tests\\Integration\\AuthApiTests.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\NookBook.API.Tests\\Integration\\AuthApiTests.cs",
+              "RelativeToolTip": "NookBook.API.Tests\\Integration\\AuthApiTests.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T06:52:34.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookingsApiTests.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\NookBook.API.Tests\\Integration\\BookingsApiTests.cs",
+              "RelativeDocumentMoniker": "NookBook.API.Tests\\Integration\\BookingsApiTests.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\NookBook.API.Tests\\Integration\\BookingsApiTests.cs",
+              "RelativeToolTip": "NookBook.API.Tests\\Integration\\BookingsApiTests.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAUwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T06:52:37.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AgIAAOABAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T07:22:44.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TestConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\NookBook.API.Tests\\Helpers\\TestConfiguration.cs",
+              "RelativeDocumentMoniker": "NookBook.API.Tests\\Helpers\\TestConfiguration.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\NookBook.API.Tests\\Helpers\\TestConfiguration.cs",
+              "RelativeToolTip": "NookBook.API.Tests\\Helpers\\TestConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T06:52:26.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\NookBook.API.Tests\\Services\\UserServiceTests.cs",
+              "RelativeDocumentMoniker": "NookBook.API.Tests\\Services\\UserServiceTests.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\NookBook.API.Tests\\Services\\UserServiceTests.cs",
+              "RelativeToolTip": "NookBook.API.Tests\\Services\\UserServiceTests.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAUwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T06:53:13.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReviewServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\NookBook.API.Tests\\Services\\ReviewServiceTests.cs",
+              "RelativeDocumentMoniker": "NookBook.API.Tests\\Services\\ReviewServiceTests.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\NookBook.API.Tests\\Services\\ReviewServiceTests.cs",
+              "RelativeToolTip": "NookBook.API.Tests\\Services\\ReviewServiceTests.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAUwH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T06:53:11.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RecommendationServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\NookBook.API.Tests\\Services\\RecommendationServiceTests.cs",
+              "RelativeDocumentMoniker": "NookBook.API.Tests\\Services\\RecommendationServiceTests.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\NookBook.API.Tests\\Services\\RecommendationServiceTests.cs",
+              "RelativeToolTip": "NookBook.API.Tests\\Services\\RecommendationServiceTests.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAUwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T06:53:07.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CommentModerationServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\NookBook.API.Tests\\Services\\CommentModerationServiceTests.cs",
+              "RelativeDocumentMoniker": "NookBook.API.Tests\\Services\\CommentModerationServiceTests.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\NookBook.API.Tests\\Services\\CommentModerationServiceTests.cs",
+              "RelativeToolTip": "NookBook.API.Tests\\Services\\CommentModerationServiceTests.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAADwv1YAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T06:53:01.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookingServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\NookBook.API.Tests\\Services\\BookingServiceTests.cs",
+              "RelativeDocumentMoniker": "NookBook.API.Tests\\Services\\BookingServiceTests.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\NookBook.API.Tests\\Services\\BookingServiceTests.cs",
+              "RelativeToolTip": "NookBook.API.Tests\\Services\\BookingServiceTests.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAUwOAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T06:53:02.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UsersApiTests.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\NookBook.API.Tests\\Integration\\UsersApiTests.cs",
+              "RelativeDocumentMoniker": "NookBook.API.Tests\\Integration\\UsersApiTests.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\NookBook.API.Tests\\Integration\\UsersApiTests.cs",
+              "RelativeToolTip": "NookBook.API.Tests\\Integration\\UsersApiTests.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T06:52:54.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReviewsApiTests.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\NookBook.API.Tests\\Integration\\ReviewsApiTests.cs",
+              "RelativeDocumentMoniker": "NookBook.API.Tests\\Integration\\ReviewsApiTests.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\NookBook.API.Tests\\Integration\\ReviewsApiTests.cs",
+              "RelativeToolTip": "NookBook.API.Tests\\Integration\\ReviewsApiTests.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAUwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T06:52:51.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RecommendationsApiTests.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\NookBook.API.Tests\\Integration\\RecommendationsApiTests.cs",
+              "RelativeDocumentMoniker": "NookBook.API.Tests\\Integration\\RecommendationsApiTests.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\NookBook.API.Tests\\Integration\\RecommendationsApiTests.cs",
+              "RelativeToolTip": "NookBook.API.Tests\\Integration\\RecommendationsApiTests.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvzIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T06:52:48.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IntegrationTestBase.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\NookBook.API.Tests\\Integration\\IntegrationTestBase.cs",
+              "RelativeDocumentMoniker": "NookBook.API.Tests\\Integration\\IntegrationTestBase.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\NookBook.API.Tests\\Integration\\IntegrationTestBase.cs",
+              "RelativeToolTip": "NookBook.API.Tests\\Integration\\IntegrationTestBase.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T06:52:45.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HotelsApiTests.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\NookBook.API.Tests\\Integration\\HotelsApiTests.cs",
+              "RelativeDocumentMoniker": "NookBook.API.Tests\\Integration\\HotelsApiTests.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\NookBook.API.Tests\\Integration\\HotelsApiTests.cs",
+              "RelativeToolTip": "NookBook.API.Tests\\Integration\\HotelsApiTests.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAIwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T06:52:43.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CustomWebApplicationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\NookBook.API.Tests\\Integration\\CustomWebApplicationFactory.cs",
+              "RelativeDocumentMoniker": "NookBook.API.Tests\\Integration\\CustomWebApplicationFactory.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\NookBook.API.Tests\\Integration\\CustomWebApplicationFactory.cs",
+              "RelativeToolTip": "NookBook.API.Tests\\Integration\\CustomWebApplicationFactory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T06:52:40.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NookBook.API.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\NookBook.API.Tests\\NookBook.API.Tests.csproj",
+              "RelativeDocumentMoniker": "NookBook.API.Tests\\NookBook.API.Tests.csproj",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\NookBook\\backend\\NookBook.API.Tests\\NookBook.API.Tests.csproj",
+              "RelativeToolTip": "NookBook.API.Tests\\NookBook.API.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-26T12:47:38.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T07:21:59.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ReviewTagNames.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\Constants\\ReviewTagNames.cs",
+              "RelativeDocumentMoniker": "Constants\\ReviewTagNames.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\Constants\\ReviewTagNames.cs",
+              "RelativeToolTip": "Constants\\ReviewTagNames.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T14:23:57.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BlockHistory.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\Models\\BlockHistory.cs",
+              "RelativeDocumentMoniker": "Models\\BlockHistory.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\Models\\BlockHistory.cs",
+              "RelativeToolTip": "Models\\BlockHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T05:57:31.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAJAAAAAAAAAAAAABAJAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T05:52:27.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvxoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T05:47:22.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserPreference.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\Models\\UserPreference.cs",
+              "RelativeDocumentMoniker": "Models\\UserPreference.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\Models\\UserPreference.cs",
+              "RelativeToolTip": "Models\\UserPreference.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T05:47:02.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\Models\\Manager.cs",
+              "RelativeDocumentMoniker": "Models\\Manager.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\backend\\Models\\Manager.cs",
+              "RelativeToolTip": "Models\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T05:46:57.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\nookbook-hotels-api\\NookBook.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "..\\nookbook-hotels-api\\NookBook.API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\ascoltat0\\Desktop\\Nookbook\\nookbook-hotels-api\\NookBook.API\\WeatherForecast.cs",
+              "RelativeToolTip": "..\\nookbook-hotels-api\\NookBook.API\\WeatherForecast.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:48:19.984Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 908,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
